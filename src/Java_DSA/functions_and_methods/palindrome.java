@@ -1,7 +1,9 @@
-package Java_DSA.functions_and_methods.assignments;
+/*
+Write a function to find if a number is a palindrome or not. Take number as parameter.
+*/
 
+package Java_DSA.functions_and_methods;
 import java.util.Scanner;
-
 public class palindrome {
     static boolean isPalindrome(long n){
         long original=n,rev=0,rem;

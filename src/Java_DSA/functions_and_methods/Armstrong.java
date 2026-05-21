@@ -1,6 +1,10 @@
-package Java_DSA.functions_and_methods;
+/*
+Question: Define a method to find out if a number is Armstrong or not.
+*/
 
-public class isArmstrong {
+
+package Java_DSA.functions_and_methods;
+public class Armstrong {
     static boolean isArmstrong(int n){
         int original,rem,sum=0;
         original=n;

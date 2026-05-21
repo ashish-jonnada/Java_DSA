@@ -1,7 +1,9 @@
+/*
+Question: Write a program to print the sum of two numbers entered by user by defining your own method.
+*/
+
 package Java_DSA.functions_and_methods;
-
 import java.util.Scanner;
-
 public class SumOfTwoNumbers {
     static void sum(){
         int num1,num2,add;

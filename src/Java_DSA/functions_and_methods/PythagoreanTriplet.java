@@ -1,4 +1,9 @@
-package Java_DSA.functions_and_methods.assignments;
+/*
+Question: Write a function to check if a given triplet is a Pythagorean triplet or not.
+(A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).
+*/
+
+package Java_DSA.functions_and_methods;
 import java.util.Scanner;
 public class PythagoreanTriplet {
     static boolean isPythagoreanTriplet(int a,int b,int c){

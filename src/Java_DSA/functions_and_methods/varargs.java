@@ -1,7 +1,6 @@
+
 package Java_DSA.functions_and_methods;
-
 import java.util.Arrays;
-
 public class varargs {
 
     static void fun(int ...v){

@@ -1,7 +1,9 @@
-package Java_DSA.functions_and_methods.assignments;
-
+/*
+Question: A person is eligible to vote if his/her age is greater than or equal to 18.
+            Define a method to find out if he/she is eligible to vote.
+*/
+package Java_DSA.functions_and_methods;
 import java.util.Scanner;
-
 public class VoteEligibility {
     static boolean isEligible(int n){
         return n >= 18;

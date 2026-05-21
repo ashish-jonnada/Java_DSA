@@ -1,7 +1,10 @@
-package Java_DSA.functions_and_methods.assignments;
+/*
+Question: Write a program to print the factorial of a number by defining a method named 'Factorial'.
+        Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n.
+*/
 
+package Java_DSA.functions_and_methods;
 import java.util.Scanner;
-
 public class factorial {
     static long factorial(int n){
         long fact=1;
