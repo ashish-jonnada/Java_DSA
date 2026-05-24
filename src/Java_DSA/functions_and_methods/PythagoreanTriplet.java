@@ -1,4 +1,4 @@
-package Java_DSA.functions_and_methods.assignments;
+package Java_DSA.functions_and_methods;
 import java.util.Scanner;
 public class PythagoreanTriplet {
     static boolean isPythagoreanTriplet(int a,int b,int c){
